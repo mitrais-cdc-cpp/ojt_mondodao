@@ -1,2 +1,2 @@
-# ojt_mondodao
+# ojt_mongodao
 Base repo for mongodao development
